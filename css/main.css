@@ -131,7 +131,7 @@ li {
     height: 20px;
     background-image: url(/images/bullet.svg);
     background-size: contain;
-    margin-right: .5em;
+    margin-right: .6em;
 }
 .unorderedsecondlist {
     display: flex;
